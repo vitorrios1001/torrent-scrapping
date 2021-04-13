@@ -1,0 +1,12 @@
+{
+  "name": "torrent-scrapping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
